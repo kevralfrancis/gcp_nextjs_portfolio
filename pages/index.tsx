@@ -83,7 +83,7 @@ export default function Home() {
 
             </a>
 
-            <a href="#CONTACT-US">
+            <a href="#CONTACT-ME">
 
             <div className="kev_nav_item">
                 <i className="fa fa-phone-square fa-2x" aria-hidden="true"></i>
@@ -115,7 +115,7 @@ export default function Home() {
                 <li><a href="#SKILLS">Contact Me</a></li>
                 <li><a href="#PORTFOLIO">Contact Me</a></li>
                 <li><a href="#TOOLS">Tools</a></li>
-                <li><a href="#CONTACT-US">Contact Me</a></li>
+                <li><a href="#CONTACT-ME">Contact Me</a></li>
             </ul>
         </div>
     </div>
