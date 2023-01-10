@@ -128,8 +128,8 @@ export default function Home() {
 
                     src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/profile-image_sbjyvn.png"
                     alt="Picture of the author"
-                    width={100}
-                    height={100}
+                    width={500}
+                    height={500}
 
                     />
 
@@ -158,8 +158,8 @@ export default function Home() {
                             src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/profile-image_sbjyvn.png"
 
                             alt="Picture of the author"
-                            width={100}
-                            height={100}
+                            width={500}
+                            height={500}
 
                             />
                         <div>
@@ -421,8 +421,8 @@ export default function Home() {
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Project1_k3ikln.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         
@@ -436,8 +436,8 @@ height={100}
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Project3_toxcwq.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         <div className="skill-paragraph">Visit</div>
@@ -451,8 +451,8 @@ height={100}
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project4_ljxxpk.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         <div className="skill-paragraph">Visit</div>
@@ -467,8 +467,8 @@ height={100}
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project5_tyhgrj.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         <div className="skill-paragraph">Visit</div>
@@ -483,8 +483,8 @@ height={100}
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project6_kdoyyh.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         <div className="skill-paragraph">Visit</div>
@@ -499,8 +499,8 @@ height={100}
 src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Project2_inbzkl.png"
 
 alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 
 />
                         <div className="skill-paragraph">Visit</div>
@@ -533,8 +533,8 @@ height={100}
                     <div className="tool floating">
 
                     <Image className="HTML" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool30_cdtxf3.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
 
                         <div className="tool-paragraph">HTML</div>
@@ -542,8 +542,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="CSS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool29_qjdbf5.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">CSS</div>
                     </div>
@@ -551,8 +551,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Javascript" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool28_iddva6.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Javascript</div>
                     </div>
@@ -560,8 +560,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="React" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool27_oxwbfr.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">React</div>
                     </div>
@@ -569,8 +569,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Angular" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool26_r9uols.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Angular</div>
                     </div>
@@ -578,8 +578,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Vue" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool25_eanewe.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Vue</div>
                     </div>
@@ -597,8 +597,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Node-JS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool24_qw3pnm.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Node JS</div>
                     </div>
@@ -606,8 +606,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Spring-Boot" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool23_a1zmz3.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Spring-Boot</div>
                     </div>
@@ -615,8 +615,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="ASP-NET" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool22_rkdl63.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">ASP.NET</div>
                     </div>
@@ -624,8 +624,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Laravel" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool21_njjzzx.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Laravel</div>
                     </div>
@@ -646,40 +646,40 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="MySQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool19_lwyfgc.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">MySQL</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="MSSQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Tool18_ohyf8x.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">MSSQL</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="Oracle" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Tool17_v5pprl.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Oracle</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="GraphQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool16_jqz63q.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">GraphQL</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="PostgresSQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool15_bxxhom.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">PostgresSQL</div>
                     </div>
@@ -687,8 +687,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Redis" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool14_ekih0q.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Redis</div>
                     </div>
@@ -696,8 +696,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="MongoDB" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool3_q7dgic.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">MongoDB</div>
                     </div>
@@ -705,8 +705,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Cassandra" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool2_xnaojm.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Cassandra</div>
                     </div>
@@ -714,8 +714,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Hadoop" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool1_ved2tg.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Hadoop</div>
                     </div>
@@ -734,40 +734,40 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Git" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool13_vctbtw.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Git</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="GitHub" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool12_ebxwsc.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">GitHub</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="Docker" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool11_yianxd.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Docker</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="Padmon" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360245/Tool10_rnetrp.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Padmon</div>
                     </div>
                     <div className="tool floating">
 
                         <Image className="Kubernetes" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360245/Tool9_i40gh4.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Kubernetes</div>
                     </div>
@@ -775,8 +775,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Jenkins" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool8_gmr4j1.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Jenkins</div>
                     </div>
@@ -784,8 +784,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="Linux" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool7_hywhtf.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">Linux</div>
                     </div>
@@ -793,8 +793,8 @@ height={100}
                     <div className="tool floating">
 
                         <Image className="AWS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool6_eu2dla.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 />
                         <div className="tool-paragraph">AWS</div>
                     </div>
@@ -802,8 +802,8 @@ height={100}
                     <div className="tool floating">
 
                         {/* <Image className="GCP" src="Tool2.png" alt="Picture of the author"
-width={100}
-height={100}
+width={500}
+height={500}
 /> */}
                         <div className="tool-paragraph">GCP</div>
                     </div>
