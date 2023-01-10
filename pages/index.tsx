@@ -34,7 +34,7 @@ export default function Home() {
 
             </a>
 
-            <a href="#">
+            <a href="#ABOUT-ME">
 
                 <div className="kev_nav_item">
                     <i className="fa fa-user-circle fa-2x" aria-hidden="true"></i>
@@ -145,7 +145,7 @@ export default function Home() {
             </div>
         </div>
 
-        <div className="kev_section dark_grey_background">
+        <div id="ABOUT-ME" className="kev_section dark_grey_background">
             <div className="kev_container">
                 <div className="kev-Section-title">
                     <h1>About Me</h1>
