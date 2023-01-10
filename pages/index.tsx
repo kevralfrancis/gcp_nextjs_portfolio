@@ -114,8 +114,8 @@ export default function Home() {
                     src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/kevralfrancisportfolioimage.c9398925_uatyyx.jpg"
                     
                     alt="Picture of the author"
-                    width={100}
-                    height={100}
+                    width={50}
+                    height={50}
 
                     />
 
