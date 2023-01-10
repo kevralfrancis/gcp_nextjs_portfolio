@@ -1,7 +1,7 @@
 import sendgrid from "@sendgrid/mail";
 
 // sendgrid.setApiKey(process.env.SENDGRID_API_KEY);
-sendgrid.setApiKey("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");
+sendgrid.setApiKey(process.env.SENDGRID_API_KEY);
 
 
 async function sendEmail(req, res) {
