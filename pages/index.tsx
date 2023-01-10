@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
+import frontEndTools from '../data/developmenttools.js'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -108,12 +109,30 @@ export default function Home() {
         <div className="kev_section">
             <div className="kev_container  kev_row">
                 <div className="hero-image-section">
-                    <img src="kevralfrancisportfolioimage.c9398925.jpg" />
+                    {/* <img src="kevralfrancisportfolioimage.c9398925.jpg" /> */}
+                    <Image
+
+                    src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/kevralfrancisportfolioimage.c9398925_uatyyx.jpg"
+                    
+                    alt="Picture of the author"
+                    width={100}
+                    height={100}
+
+                    />
 
                 </div>
 
                 <div className="mobile-hero-image-section">
-                    <img src="profile-image.png" />
+                    {/* <img src="profile-image.png" /> */}
+
+                    <Image
+
+                    src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/profile-image_sbjyvn.png"
+                    alt="Picture of the author"
+                    width={100}
+                    height={100}
+
+                    />
 
                 </div>
                 <div className="hero-info-section">
@@ -134,7 +153,16 @@ export default function Home() {
                 </div>
                 <div className="aboutme-twocol">
                     <div className="aboutme-info">
-                        <img src="profile-image.jpg" />
+                        {/* <img src="profile-image.jpg" /> */}
+                        <Image
+
+                            src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/profile-image_sbjyvn.png"
+
+                            alt="Picture of the author"
+                            width={100}
+                            height={100}
+
+                            />
                         <div>
                             <p>
                                 Name : Kevral Francis
@@ -387,36 +415,95 @@ export default function Home() {
                 <div className="skill-three-col">
                     <div className="skill floating">
 
-                        <img src="Project1.png" />
+                        {/* <img src="Project1.png" /> */}
+
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Project1_k3ikln.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
+                        
                         <div className="skill-paragraph">Visit</div>
                     </div>
                     <div className="skill floating">
 
-                        <img src="Project3.png" />
+                        {/* <img src="Project3.png" /> */}
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Project3_toxcwq.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
                         <div className="skill-paragraph">Visit</div>
                     </div>
 
                     <div className="skill floating">
 
-                        <img src="Project4.png" />
+                        {/* <img src="Project4.png" /> */}
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project4_ljxxpk.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
                         <div className="skill-paragraph">Visit</div>
                     </div>
 
                     <div className="skill floating">
 
-                        <img src="Project5.png" />
+                        {/* <img src="Project5.png" /> */}
+
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project5_tyhgrj.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
                         <div className="skill-paragraph">Visit</div>
                     </div>
 
                     <div className="skill floating">
 
-                        <img src="Project6.png" />
+                        {/* <img src="Project6.png" /> */}
+
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Project6_kdoyyh.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
                         <div className="skill-paragraph">Visit</div>
                     </div>
 
                     <div className="skill floating">
 
-                        <img src="Project1.png" />
+                        {/* <img src="Project1.png" /> */}
+
+                        <Image
+
+src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Project2_inbzkl.png"
+
+alt="Picture of the author"
+width={100}
+height={100}
+
+/>
                         <div className="skill-paragraph">Visit</div>
                     </div>
                 </div>
@@ -429,7 +516,10 @@ export default function Home() {
 
 
         <div className="kev_section dark_grey_background">
-            <div className="kev_container">
+            
+
+
+        <div className="kev_container">
                 <div className="kev-Section-title tool-title">
                     <h1> Development Tools
                     </h1>
@@ -443,36 +533,55 @@ export default function Home() {
                 <div className="tool-three-col">
                     <div className="tool floating">
 
-                        <img className="HTML" src="Tool30.png" />
+                    <Image className="HTML" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool30_cdtxf3.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
+
                         <div className="tool-paragraph">HTML</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="CSS" src="Tool29.png" />
+                        <Image className="CSS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool29_qjdbf5.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">CSS</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Javascript" src="Tool28.png" />
+                        <Image className="Javascript" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool28_iddva6.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Javascript</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="React" src="Tool27.png" />
+                        <Image className="React" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool27_oxwbfr.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">React</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Angular" src="Tool26.png" />
+                        <Image className="Angular" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool26_r9uols.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Angular</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Vue" src="Tool25.png" />
+                        <Image className="Vue" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool25_eanewe.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Vue</div>
                     </div>
                 </div>
@@ -488,25 +597,37 @@ export default function Home() {
 
                     <div className="tool floating">
 
-                        <img className="Node-JS" src="Tool24.png" />
+                        <Image className="Node-JS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360243/Tool24_qw3pnm.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Node JS</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Spring-Boot" src="Tool23.png" />
+                        <Image className="Spring-Boot" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool23_a1zmz3.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Spring-Boot</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="ASP-NET" src="Tool22.png" />
+                        <Image className="ASP-NET" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool22_rkdl63.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">ASP.NET</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Laravel" src="Tool21.png" />
+                        <Image className="Laravel" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool21_njjzzx.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Laravel</div>
                     </div>
               
@@ -525,51 +646,78 @@ export default function Home() {
                 <div className="tool-three-col">
                     <div className="tool floating">
 
-                        <img className="MySQL" src="Tool19.png" />
+                        <Image className="MySQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360242/Tool19_lwyfgc.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">MySQL</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="MSSQL" src="Tool18.png" />
+                        <Image className="MSSQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Tool18_ohyf8x.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">MSSQL</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="Oracle" src="Tool17.png" />
+                        <Image className="Oracle" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360241/Tool17_v5pprl.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Oracle</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="GraphQL" src="Tool16.png" />
+                        <Image className="GraphQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool16_jqz63q.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">GraphQL</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="PostgresSQL" src="Tool15.png" />
+                        <Image className="PostgresSQL" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool15_bxxhom.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">PostgresSQL</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Redis" src="Tool14.png" />
+                        <Image className="Redis" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool14_ekih0q.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Redis</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="MongoDB" src="Tool3.png" />
+                        <Image className="MongoDB" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool3_q7dgic.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">MongoDB</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Cassandra" src="Tool2.png" />
+                        <Image className="Cassandra" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool2_xnaojm.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Cassandra</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Hadoop" src="Tool1.png" />
+                        <Image className="Hadoop" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool1_ved2tg.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Hadoop</div>
                     </div>
                 </div>
@@ -586,51 +734,78 @@ export default function Home() {
                 <div className="tool-three-col">
                     <div className="tool floating">
 
-                        <img className="Git" src="Tool13.png" />
+                        <Image className="Git" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool13_vctbtw.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Git</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="GitHub" src="Tool12.png" />
+                        <Image className="GitHub" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool12_ebxwsc.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">GitHub</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="Docker" src="Tool11.png" />
+                        <Image className="Docker" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360240/Tool11_yianxd.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Docker</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="Padmon" src="Tool10.png" />
+                        <Image className="Padmon" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360245/Tool10_rnetrp.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Padmon</div>
                     </div>
                     <div className="tool floating">
 
-                        <img className="Kubernetes" src="Tool9.png" />
+                        <Image className="Kubernetes" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360245/Tool9_i40gh4.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Kubernetes</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Jenkins" src="Tool8.png" />
+                        <Image className="Jenkins" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool8_gmr4j1.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Jenkins</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="Linux" src="Tool7.png" />
+                        <Image className="Linux" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool7_hywhtf.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">Linux</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="AWS" src="Tool6.png" />
+                        <Image className="AWS" src="https://res.cloudinary.com/dn291drsi/image/upload/v1672360244/Tool6_eu2dla.png" alt="Picture of the author"
+width={100}
+height={100}
+/>
                         <div className="tool-paragraph">AWS</div>
                     </div>
 
                     <div className="tool floating">
 
-                        <img className="GCP" src="Tool2.png" />
+                        {/* <Image className="GCP" src="Tool2.png" alt="Picture of the author"
+width={100}
+height={100}
+/> */}
                         <div className="tool-paragraph">GCP</div>
                     </div>
                 </div>
@@ -651,6 +826,10 @@ export default function Home() {
 
 
             </div>
+
+
+
+
 
 
         </div>

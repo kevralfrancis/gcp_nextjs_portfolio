@@ -449,13 +449,14 @@ form{
 }
 
 
-input{
+input {
   padding-top: 15px;
   padding-bottom: 15px;
   border-radius: 8px;
   padding-left: 15px;
   width: 95%;
-  
+  background-color: #2e2e2e;
+  border: none;
 }
 
 
@@ -465,6 +466,8 @@ textarea{
   border-radius: 8px;
   padding-left: 15px;
   width: 95%;
+  background-color: #2e2e2e;
+  border: none;
 }
 
 
