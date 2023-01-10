@@ -70,7 +70,7 @@ export default function Home() {
             <a href="#PORTFOLIO">
 
                 <div className="kev_nav_item">
-                    <i className="fa-solid fa-rectangle-history-circle-plus fa-2x" aria-hidden="true"></i>
+                    <i className="fa-solid fa-code-fork fa-2x" aria-hidden="true"></i>
                 </div>
                
             </a>
