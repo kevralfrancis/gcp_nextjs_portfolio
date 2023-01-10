@@ -197,7 +197,7 @@ export default function Home() {
                             such as React, Angular, and Vue for front-end development. I also use Express JS in the
                             backend creating Rest API, WebSockets API, and GraphQL queries and mutations in Node Js,
                             Generating Spring Boot Applications for Java Backend Development, and composing Laravel PHP
-                            applications for backend development. However, throughout my process, I've developed a core
+                            applications for backend development. However, throughout my process, I&quot;ve developed a core
                             concept. A concept that allows me to see through the languages and the frameworks.
                         </p>
                         <p>
