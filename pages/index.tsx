@@ -42,7 +42,7 @@ export default function Home() {
 
             </a>
 
-            <a href="#">
+            <a href="#EDUCTAION-EXP">
 
                 <div className="kev_nav_item">
                     <i className="fa fa-graduation-cap fa-2x" aria-hidden="true"></i>
@@ -50,7 +50,7 @@ export default function Home() {
 
             </a>
 
-            <a href="#">
+            <a href="#EDUCTAION-EXP">
 
                 <div className="kev_nav_item">
                     <i className="fa fa-briefcase fa-2x" aria-hidden="true"></i>
@@ -59,7 +59,7 @@ export default function Home() {
             </a>
 
 
-            <a href="#">
+            <a href="#SKILLS">
 
                 <div className="kev_nav_item">
                     <i className="fa fa-code fa-2x" aria-hidden="true"></i>
@@ -67,11 +67,27 @@ export default function Home() {
 
             </a>
 
-            <a href="#">
+            <a href="#PORTFOLIO">
 
                 <div className="kev_nav_item">
-                    <i className="fa fa-phone-square fa-2x" aria-hidden="true"></i>
+                    <i className="fa-solid fa-rectangle-history-circle-plus fa-2x" aria-hidden="true"></i>
                 </div>
+               
+            </a>
+
+            <a href="#TOOLS">
+
+            <div className="kev_nav_item">
+                <i className="fa-sharp fa-solid fa-screwdriver-wrench fa-2x" aria-hidden="true"></i>
+            </div>
+
+            </a>
+
+            <a href="#CONTACT-US">
+
+            <div className="kev_nav_item">
+                <i className="fa fa-phone-square fa-2x" aria-hidden="true"></i>
+            </div>
 
             </a>
 
@@ -93,11 +109,13 @@ export default function Home() {
             <span></span>
             <ul id="menu">
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Education</a></li>
-                <li><a href="#">Work Experience</a></li>
-                <li><a href="#">Tools</a></li>
-                <li><a href="#">Contact Me</a></li>
+                <li><a href="#ABOUT-ME">About</a></li>
+                <li><a href="#EDUCTAION-EXP">Education</a></li>
+                <li><a href="#EDUCTAION-EXP">Work Experience</a></li>
+                <li><a href="#SKILLS">Contact Me</a></li>
+                <li><a href="#PORTFOLIO">Contact Me</a></li>
+                <li><a href="#TOOLS">Tools</a></li>
+                <li><a href="#CONTACT-US">Contact Me</a></li>
             </ul>
         </div>
     </div>
@@ -229,7 +247,7 @@ export default function Home() {
                 </div>
             </div>
         </div>
-        <div className="kev_section_col">
+        <div id="EDUCTAION-EXP" className="kev_section_col">
             <div className="kev_container">
                 <div className="kev-Section-title_left ">
                     <h1 className="text-gradient ">Education</h1>
@@ -306,7 +324,7 @@ export default function Home() {
 
 
         </div>
-        <div className="kev_section dark_grey_background">
+        <div id="SKILLS" className="kev_section dark_grey_background">
             <div className="kev_container">
                 <div className="kev-Section-title">
                     <h1> Core Skill Areas
@@ -404,7 +422,7 @@ export default function Home() {
 
 
 
-        <div className="kev_section">
+        <div id="PORTFOLIO" className="kev_section">
             <div className="kev_container">
                 <div className="kev-Section-title">
                     <h1> Portfolio Projects
@@ -514,7 +532,7 @@ height={500}
 
 
 
-        <div className="kev_section dark_grey_background">
+        <div id="TOOLS" className="kev_section dark_grey_background">
             
 
 
@@ -847,7 +865,7 @@ height={500}
 
 
 
-        <div className="kev_section">
+        <div id="CONTACT-ME" className="kev_section">
             <div className="kev_container">
                 <div className="kev-Section-title tool-title">
                     <h1> I Am Capable To:
