@@ -1,4 +1,6 @@
 import sendgrid from "@sendgrid/mail";
+import * as dotenv from 'dotenv' // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
+dotenv.config()
 
 // sendgrid.setApiKey(process.env.SENDGRID_API_KEY);
 sendgrid.setApiKey(process.env.SENDGRID_API_KEY);
