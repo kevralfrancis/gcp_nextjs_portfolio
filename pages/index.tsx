@@ -1185,9 +1185,9 @@ height={500}
             name="fullname"
             // className="bg-transparent border-b py-2 pl-4 focus:outline-none focus:rounded-md focus:ring-1 ring-green-500 font-light text-gray-500"
           />
-          {errors?.fullname && (
+          {/* {errors?.fullname && (
             <p className="text-red-500">Fullname cannot be empty.</p>
-          )}
+          )} */}
 
           {/* <label
             htmlFor="email"
@@ -1205,9 +1205,9 @@ height={500}
             }}
             // className="bg-transparent border-b py-2 pl-4 focus:outline-none focus:rounded-md focus:ring-1 ring-green-500 font-light text-gray-500"
           />
-          {errors?.email && (
+          {/* {errors?.email && (
             <p className="text-red-500">Email cannot be empty.</p>
-          )}
+          )} */}
 
           {/* <label
             htmlFor="Phone"
@@ -1225,9 +1225,9 @@ height={500}
             }}
             // className="bg-transparent border-b py-2 pl-4 focus:outline-none focus:rounded-md focus:ring-1 ring-green-500 font-light text-gray-500"
           />
-          {errors?.Phone && (
+          {/* {errors?.Phone && (
             <p className="text-red-500">Phone cannot be empty.</p>
-          )}
+          )} */}
           {/* <label
             htmlFor="message"
             className="text-gray-500 font-light mt-4 dark:text-gray-50"
@@ -1243,9 +1243,9 @@ height={500}
             }}
             // className="bg-transparent border-b py-2 pl-4 focus:outline-none focus:rounded-md focus:ring-1 ring-green-500 font-light text-gray-500"
           ></textarea>
-          {errors?.message && (
+          {/* {errors?.message && (
             <p className="text-red-500">Message body cannot be empty.</p>
-          )}
+          )} */}
           <div className="flex flex-row items-center justify-start">
             <button
               type="submit"
