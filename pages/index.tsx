@@ -36,23 +36,23 @@ export default function Home() {
 
   
     const handleValidation = () => {
-      let tempErrors = [""];
+      let tempErrors = {};
       let isValid = true;
   
       if (fullname.length <= 0) {
-        tempErrors = ["fullname"];
+        tempErrors["fullname"] = true;
         isValid = false;
       }
       if (email.length <= 0) {
-        tempErrors = ["email"];
+        tempErrors["email"] = true;
         isValid = false;
       }
       if (Phone.length <= 0) {
-        tempErrors = ["Phone"];
+        tempErrors["Phone"] = true;
         isValid = false;
       }
       if (message.length <= 0) {
-        tempErrors = ["message"]
+        tempErrors["message"] = true;
         isValid = false;
       }
   
