@@ -474,12 +474,14 @@ textarea{
   width: 95%;
   background-color: #2e2e2e;
   border: none;
+  color: #d8d8d8;
 }
 
 
 textarea {
   overflow:hidden;
   resize: vertical;
+  color: #d8d8d8;
 }
 
 
@@ -1693,6 +1695,7 @@ textarea{
   border-radius: 8px;
   padding-left: 15px;
   width: 100%;
+  color: #d8d8d8;
 }
 
 
@@ -2151,6 +2154,7 @@ textarea{
   border-width: 1px;
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
+  color: #d8d8d8;
 }
 .list {
   width: 100%;
@@ -2240,7 +2244,7 @@ textarea{
   background-color: var(--dl-color-gray-white);
 }
 .input {
-  color: var(--dl-color-gray-black);
+  color: #d8d8d8;
   cursor: auto;
   padding: 0.5rem 1rem;
   border-color: var(--dl-color-gray-black);
@@ -2249,7 +2253,7 @@ textarea{
   background-color: var(--dl-color-gray-white);
 }
 .textarea {
-  color: var(--dl-color-gray-black);
+  color: #d8d8d8;
   cursor: auto;
   padding: 0.5rem;
   border-color: var(--dl-color-gray-black);
