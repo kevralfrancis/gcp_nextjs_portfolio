@@ -1181,7 +1181,7 @@ height={500}
             name="fullname"
             // className="bg-transparent border-b py-2 pl-4 focus:outline-none focus:rounded-md focus:ring-1 ring-green-500 font-light text-gray-500"
           />
-          {errors?.fullname && (
+             {errors?.fullname && (
             <p className="text-red-500">Fullname cannot be empty.</p>
           )}
 
