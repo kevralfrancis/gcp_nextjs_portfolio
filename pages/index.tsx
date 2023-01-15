@@ -370,12 +370,12 @@ export default function Home() {
                     </div>
                     <div className="first-education">
 
-                        <h2>UDEMY & Skillshare</h2>
+                        <h2>Udemy & Skillshare</h2>
                         <p> Software Engineering continuing education, which helps me to keep up to date with the latest technology and systems that have been put in place to make software engineering more effective.
                             
                         </p>
 
-                        <p>Jan 2018 - CURRENT</p>
+                        <p>Jan 2016 - CURRENT</p>
                         <p> Completion: 9 Course
                         </p>
 
