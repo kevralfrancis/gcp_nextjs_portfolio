@@ -2311,11 +2311,11 @@ textarea{
   background-color: #000000;
 }
 .home-text {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 3rem;
 }
 .home-text02 {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 1.15rem;
   max-width: 600px;
   margin-top: var(--dl-space-space-unit);
@@ -2406,14 +2406,14 @@ margin: auto;
   padding-bottom: var(--dl-space-space-unit);
 }
 .home-text05 {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 1.5rem;
   text-align: center;
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text07 {
-  color: rgb(237, 237, 237);
+  color: #d8d8d8;
   font-size: 0.75rem;
   text-align: center;
 }
@@ -2486,14 +2486,14 @@ margin: auto;
   padding-bottom: var(--dl-space-space-unit);
 }
 .home-text10 {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 1.5rem;
   text-align: center;
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text12 {
-  color: rgb(237, 237, 237);
+  color: #d8d8d8;
   font-size: 0.75rem;
   text-align: center;
 }
@@ -2565,14 +2565,14 @@ margin: auto;
   padding-bottom: var(--dl-space-space-unit);
 }
 .home-text15 {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 1.5rem;
   text-align: center;
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text17 {
-  color: rgb(237, 237, 237);
+  color: #d8d8d8;
   font-size: 0.75rem;
   text-align: center;
 }
@@ -2644,14 +2644,14 @@ margin: auto;
   padding-bottom: var(--dl-space-space-unit);
 }
 .home-text20 {
-  color: #ededed;
+  color: #d8d8d8;
   font-size: 1.5rem;
   text-align: center;
   font-weight: 500;
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text22 {
-  color: rgb(237, 237, 237);
+  color: #d8d8d8;
   font-size: 0.75rem;
   text-align: center;
 }
