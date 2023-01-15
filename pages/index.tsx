@@ -364,18 +364,19 @@ export default function Home() {
                         <p> Bachelor of Science, Information Technology with Specialization Software Engineering
                         </p>
 
-                        <p>Jan 2018 - Jun 2022Jan 2018 - Jun 2022</p>
+                        <p>Jan 2018 - Jun 2022</p>
                         <p> Grade: 3.300
                         </p>
                     </div>
                     <div className="first-education">
 
-                        <h2>Barry University</h2>
-                        <p> Bachelor of Science, Information Technology with Specialization Software Engineering
+                        <h2>UDEMY & Skillshare</h2>
+                        <p> Software Engineering continuing education, which helps me to keep up to date with the latest technology and systems that have been put in place to make software engineering more effective.
+                            
                         </p>
 
-                        <p>Jan 2018 - Jun 2022Jan 2018 - Jun 2022</p>
-                        <p> Grade: 3.300
+                        <p>Jan 2018 - CURRENT</p>
+                        <p> Completion: 9 Course
                         </p>
 
                     </div>
