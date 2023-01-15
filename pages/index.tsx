@@ -921,10 +921,10 @@ height={500}
 
                     <div className="tool floating">
 
-                        {/* <Image className="GCP" src="Tool2.png" alt="Picture of the author"
+                        <Image className="GCP" src="https://res.cloudinary.com/dn291drsi/image/upload/v1673801746/Tool31_rqyosf.png" alt="Picture of the author"
 width={500}
 height={500}
-/> */}
+/>
                         <div className="tool-paragraph">GCP</div>
                     </div>
                 </div>
