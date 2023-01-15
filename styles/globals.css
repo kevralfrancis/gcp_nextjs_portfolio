@@ -2089,7 +2089,7 @@ textarea{
 
 /*-------------------------contact-section-css---------------------------------------*/
 :root {
-  --dl-color-gray-500: #595959;
+  --dl-color-gray-500: #000000;
   --dl-color-gray-700: #999999;
   --dl-color-gray-900: #D9D9D9;
   --dl-size-size-large: 144px;
@@ -2375,7 +2375,7 @@ margin: auto;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: row;
   justify-content: center;
-  background-color: #f5f5f5ff;
+  background-image: linear-gradient(43deg,#850070 4%,red 49%,#ff4a00 70%,#ffc617);
 }
 .home-icon {
   fill: var(--dl-color-gray-500);
@@ -2455,7 +2455,7 @@ margin: auto;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: row;
   justify-content: center;
-  background-color: #f5f5f5ff;
+  background-image: linear-gradient(43deg,#850070 4%,red 49%,#ff4a00 70%,#ffc617);
 }
 .home-icon2 {
   fill: var(--dl-color-gray-500);
@@ -2535,7 +2535,7 @@ margin: auto;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: row;
   justify-content: center;
-  background-color: #f5f5f5ff;
+  background-image: linear-gradient(43deg,#850070 4%,red 49%,#ff4a00 70%,#ffc617);
 }
 .home-icon4 {
   fill: var(--dl-color-gray-500);
@@ -2614,7 +2614,7 @@ margin: auto;
   border-radius: var(--dl-radius-radius-round);
   flex-direction: row;
   justify-content: center;
-  background-color: #f5f5f5ff;
+  background-image: linear-gradient(43deg,#850070 4%,red 49%,#ff4a00 70%,#ffc617);
 }
 .home-icon7 {
   fill: var(--dl-color-gray-500);
