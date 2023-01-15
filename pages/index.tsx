@@ -494,12 +494,7 @@ export default function Home() {
                             <i className="fa fa-server fa-3x" aria-hidden="true"></i>
                         </div>
                         <div className="skill-subtitle">System Design</div>
-                        <div className="skill-paragraph">My first experience in web development was as a UX designer. From
-                            creating web to mobile UI components for developers to convert into re-usable code using
-                            tools such as Adobe Photoshop, Adobe Illustrator, Sketch, and Adobe XD. To this day,
-                            building the front end of projects, I find myself executing a project faster by designing
-                            first with a designing tool, then converting it to code. As a Software Engineer, working on
-                            projects as a freelancer or on the job, timing is critical.</div>
+                        <div className="skill-paragraph">As part of my journey as a software engineer, I ran into many struggles when deploying code to a test environment on a single server or to the production environment in the cloud with multiple virtual machines and load balancing of traffic. With this part of my journey, I learn how to design highly available and scalable systems. Transferring code from On-premise systems to cloud services, configuring VPC, load balancing application traffic, and setting up Kubernetes or serverless functions that speed up deployment. I also understand the different types of database storage and communication methods between servers and databases.</div>
                     </div>
 
                     <div className="skill">
