@@ -970,7 +970,7 @@ height={500}
         <div id="CONTACT-ME" className="kev_section">
             <div className="kev_container">
                 <div className="kev-Section-title tool-title">
-                    <h1> I Am Capable To:
+                    <h1> You Can hire Me To:
                     </h1>
                 </div>
 
@@ -978,7 +978,7 @@ height={500}
 
 
 
-                <p className="home-text02"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="home-text02"> Work at any of these levels of a software engineering project</p>
 
 
                 <div className="home-container01">
