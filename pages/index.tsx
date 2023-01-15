@@ -551,7 +551,7 @@ height={500}
 
 />
                         
-                        <div className="skill-paragraph">Visit</div>
+                        <div className="skill-paragraph">Miami Wrapz</div>
                     </div>
                     <div className="skill floating">
 
@@ -565,7 +565,7 @@ width={500}
 height={500}
 
 />
-                        <div className="skill-paragraph">Visit</div>
+                        <div className="skill-paragraph">Promo Graphics and Printing</div>
                     </div>
 
                     <div className="skill floating">
@@ -596,7 +596,7 @@ width={500}
 height={500}
 
 />
-                        <div className="skill-paragraph">Visit</div>
+                        <div className="skill-paragraph">Blue Horizon Windows and Doors</div>
                     </div>
 
                     <div className="skill floating">
@@ -612,7 +612,7 @@ width={500}
 height={500}
 
 />
-                        <div className="skill-paragraph">Visit</div>
+                        <div className="skill-paragraph">Uptop Jamaican Restaurant and lounge</div>
                     </div>
 
                     <div className="skill floating">
@@ -628,7 +628,7 @@ width={500}
 height={500}
 
 />
-                        <div className="skill-paragraph">Visit</div>
+                        <div className="skill-paragraph">Branded Bunch</div>
                     </div>
                 </div>
 
@@ -645,7 +645,7 @@ height={500}
 
         <div className="kev_container">
                 <div className="kev-Section-title tool-title">
-                    <h1> Development Tools
+                    <h1> Frame The Stars
                     </h1>
                 </div>
 
