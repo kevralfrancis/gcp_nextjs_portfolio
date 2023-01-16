@@ -2661,7 +2661,7 @@ margin: auto;
   text-align: center;
 }
 
-@media screen and (max-width: 1200px;){
+@media screen and (max-width: 1200px){
 
   .home-text07 {
     color: #d8d8d8;
@@ -2727,6 +2727,35 @@ margin: auto;
 
 
 
+
+
+  @media screen and (max-width: 767px){
+
+    .home-text07 {
+      color: #d8d8d8;
+      font-size: 2vw;
+      text-align: center;
+    }
+    
+    .home-text12 {
+      color: #d8d8d8;
+      font-size: 2vw;
+      text-align: center;
+    }
+    
+    .home-text17 {
+      color: #d8d8d8;
+      font-size: 2vw;
+      text-align: center;
+    }
+    
+    .home-text22 {
+      color: #d8d8d8;
+      font-size: 2vw;
+      text-align: center;
+    }
+    
+    }
 
 
 
