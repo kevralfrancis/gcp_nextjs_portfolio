@@ -2660,7 +2660,79 @@ margin: auto;
   font-size: 1vw;
   text-align: center;
 }
+
+@media screen and (max-width 1200px){
+
+  .home-text07 {
+    color: #d8d8d8;
+    font-size: 1vw;
+    text-align: center;
+  }
+  
+  .home-text12 {
+    color: #d8d8d8;
+    font-size: 1.8vw;
+    text-align: center;
+  }
+  
+  .home-text17 {
+    color: #d8d8d8;
+    font-size: 1.8vw;
+    text-align: center;
+  }
+  
+  .home-text22 {
+    color: #d8d8d8;
+    font-size: 1.8vw;
+    text-align: center;
+  }
+  
+  }
+  
+  
+
+
+
 @media(max-width: 991px) {
+
+
+
+
+  
+  .home-text07 {
+    color: #d8d8d8;
+    font-size: 2vw;
+    text-align: center;
+  }
+  
+  .home-text12 {
+    color: #d8d8d8;
+    font-size: 2vw;
+    text-align: center;
+  }
+  
+  .home-text17 {
+    color: #d8d8d8;
+    font-size: 2vw;
+    text-align: center;
+  }
+  
+  .home-text22 {
+    color: #d8d8d8;
+    font-size: 2vw;
+    text-align: center;
+  }
+  
+
+
+
+
+
+
+
+
+
+
   .home-text {
     text-align: center;
   }
