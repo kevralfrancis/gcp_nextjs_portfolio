@@ -2419,7 +2419,7 @@ margin: auto;
 }
 .home-text07 {
   color: #d8d8d8;
-  font-size: 0.75rem;
+  font-size: 1vw;
   text-align: center;
 }
 .home-step1 {
@@ -2499,7 +2499,7 @@ margin: auto;
 }
 .home-text12 {
   color: #d8d8d8;
-  font-size: 0.75rem;
+  font-size: 1vw;
   text-align: center;
 }
 .home-step2 {
@@ -2578,7 +2578,7 @@ margin: auto;
 }
 .home-text17 {
   color: #d8d8d8;
-  font-size: 0.75rem;
+  font-size: 1vw;
   text-align: center;
 }
 .home-step3 {
@@ -2657,7 +2657,7 @@ margin: auto;
 }
 .home-text22 {
   color: #d8d8d8;
-  font-size: 0.75rem;
+  font-size: 1vw;
   text-align: center;
 }
 @media(max-width: 991px) {
