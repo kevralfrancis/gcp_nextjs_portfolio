@@ -342,7 +342,7 @@ margin-top: 5px;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  /* width: 27%; */
+  width: 80px;
 
 }
 
@@ -352,7 +352,7 @@ margin-top: 5px;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  width: 90%;
+/*   width: 90%; */
   height: auto;
   background-color: rgb(20 20 20);
   padding: 5px;
@@ -839,7 +839,7 @@ textarea {
       flex-direction: column;
       align-items: center;
       text-align: center;
-      /* width: 27%; */
+      width: 80px;
     
   }
   
@@ -849,7 +849,7 @@ textarea {
       flex-direction: column;
       align-items: center;
       text-align: center;
-      width: 90%;
+/*       width: 90%; */
       height: auto;
       background-color: rgb(20 20 20);
       padding: 5px;
@@ -1453,7 +1453,7 @@ textarea {
       flex-direction: column;
       align-items: center;
       text-align: center;
-      /* width: 27%; */
+      width: 80px;
     
   }
   
@@ -1463,7 +1463,7 @@ textarea {
       flex-direction: column;
       align-items: center;
       text-align: center;
-      width: 90%;
+/*       width: 90%; */
       height: auto;
       background-color: rgb(20 20 20);
       padding: 5px;
@@ -1868,7 +1868,7 @@ textarea{
       flex-direction: column;
       align-items: center;
       text-align: center;
-      /* width: 27%; */
+      width: 80px;
       height: auto;
   }
 
@@ -1878,8 +1878,8 @@ textarea{
       flex-direction: column;
       align-items: center;
       text-align: center;
-      width: 100%;
-      height: 70%;
+/*       width: 100%;
+      height: 70%; */
       background-color: rgb(20 20 20);
       padding: 5px;
 /*       border-radius: 50%; */
