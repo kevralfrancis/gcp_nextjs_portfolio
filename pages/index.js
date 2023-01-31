@@ -218,8 +218,8 @@ export default function Home() {
                 <li><a href="#ABOUT-ME">About</a></li>
                 <li><a href="#EDUCTAION-EXP">Education</a></li>
                 <li><a href="#EDUCTAION-EXP">Work Experience</a></li>
-                <li><a href="#SKILLS">Contact Me</a></li>
-                <li><a href="#PORTFOLIO">Contact Me</a></li>
+                <li><a href="#SKILLS">Core Skills</a></li>
+                <li><a href="#PORTFOLIO">Portfolio</a></li>
                 <li><a href="#TOOLS">Tools</a></li>
                 <li><a href="#CONTACT-ME">Contact Me</a></li>
             </ul>
